@@ -1,0 +1,22 @@
+﻿  Cell.cpp
+  CellExtras.cpp
+  Excel.cpp
+  Iterator.cpp
+  Program.cpp
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\Excel.cpp(795,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\Excel.cpp(790,9): message : while compiling class template member function 'std::string Excel<std::string>::getAlignedString(std::string,Alignment,int)'
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\Excel.cpp(817,6): message : see the first reference to 'Excel<std::string>::getAlignedString' in 'Excel<std::string>::printCell'
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\Excel.cpp(831,13): message : see the first reference to 'Excel<std::string>::printCell' in 'Excel<std::string>::printRow'
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\Excel.cpp(855,12): message : see the first reference to 'Excel<std::string>::printRow' in 'Excel<std::string>::printGrid'
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\Program.cpp(35,17): message : see the first reference to 'Excel<std::string>::printGrid' in 'main'
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\Program.cpp(7,15): message : see reference to class template instantiation 'Excel<std::string>' being compiled
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\Excel.cpp(802,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ReverseIterator.cpp
+  ascii.cpp
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\ascii.cpp(33,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\ascii.cpp(66,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\ascii.cpp(86,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\MiniExcel\ascii.cpp(87,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  LINK : C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\x64\Debug\MiniExcel.exe not found or not built by the last incremental link; performing full link
+  MiniExcel.vcxproj -> C:\Users\Rafia Rehan Tariq\DSA\MiniExcel (2) (1)\MiniExcel (2)\MiniExcel\x64\Debug\MiniExcel.exe
